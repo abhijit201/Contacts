@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Contacts</string>
+    <string name="second_fragment_label">Contact Details</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="save">SAVE</string>
+    <string name="name">Please enter name</string>
+    <string name="number">Please enter number</string>
+
+</resources>
